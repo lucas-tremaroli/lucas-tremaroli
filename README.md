@@ -16,7 +16,7 @@ Also using:
 
 - **Core:** TypeScript · Python · Go
 - **Frontend:** SvelteKit · Tailwind CSS
-- **Backend:** Firebase · FastAPI · Supabase · DuckDB
+- **Backend:** Firebase · FastAPI · MongoDB <!--Supabase · DuckDB-->
 - **Data:** Databricks · Spark · Airflow · SQL
 - **Infra/Tooling:** Terraform · Docker · Kubernetes · Vercel · AWS
 - **CI/CD:** GitHub Actions
