@@ -9,15 +9,15 @@
 
 ### ⚙️ Stack
 
-- **Core:** TypeScript · Python · Go
-- **Frontend:** SvelteKit · Tailwind CSS
-- **Backend:** Firebase · FastAPI · MongoDB <!--Supabase · DuckDB-->
-- **Data:** Databricks · Spark · Airflow · SQL
-- **Infra/Tooling:** Terraform · Docker · Kubernetes · Vercel · AWS
+- **Core:** TypeScript | Python | Go
+- **Frontend:** SvelteKit | Tailwind CSS
+- **Backend:** Firebase | FastAPI | MongoDB <!--Supabase | DuckDB-->
+- **Data:** Databricks | Spark | Airflow | SQL
+- **Infra/Tooling:** Terraform | Docker | Kubernetes | Vercel | AWS
 - **CI/CD:** GitHub Actions
-- **Observability:** ELK · Prometheus · Grafana
+- **Observability:** ELK | Prometheus | Grafana
 - **Authentication:** Firebase Auth
-- **Package Management:** deno · poetry
-- **API/Messaging:** REST · GraphQL · gRPC · Kafka
-- **Other Languages/Scripting:** Shell scripting · Lua · LaTeX
-<!--- **Testing:** Jest · Playwright · Cypress-->
+- **Package Management:** deno | poetry
+- **API/Messaging:** REST | GraphQL | gRPC | Kafka
+- **Other Languages/Scripting:** Shell scripting | Lua | LaTeX
+<!--- **Testing:** Jest | Playwright | Cypress-->
