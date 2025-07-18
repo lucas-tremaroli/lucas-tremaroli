@@ -1,16 +1,28 @@
-## Hi there 👋
+### 🛠 Tools
 
-<!--
-**lucas-tremaroli/lucas-tremaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting with:
 
-Here are some ideas to get you started:
+- [NixOS](https://nixos.org/) for dev env config
+- [Ghostty](https://ghostty.org/) + [Oh My Zsh](https://ohmyz.sh/) + [Starship](https://starship.rs/) for terminal flow
+- [Zed](https://zed.dev/) for coding
+- [Linear](https://linear.app/) for task management that doesn’t suck
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also using:
+
+- [Neovim](https://neovim.io/) occasionally
+- [GitHub CLI](https://cli.github.com/) for fast Git workflows
+
+### ⚙️ Stack
+
+- **Core:** TypeScript · Python · Go
+- **Frontend:** SvelteKit · Tailwind CSS
+- **Backend:** Firebase · FastAPI · Supabase · DuckDB
+- **Data:** Databricks · Spark · Airflow · SQL
+- **Infra/Tooling:** Terraform · Docker · Kubernetes · Vercel · AWS
+- **CI/CD:** GitHub Actions
+- **Observability:** ELK · Prometheus · Grafana
+- **Authentication:** Firebase Auth
+- **Package Management:** deno · poetry
+- **API/Messaging:** REST · GraphQL · gRPC · Kafka
+- **Other Languages/Scripting:** Shell scripting · Lua · LaTeX
+<!--- **Testing:** Jest · Playwright · Cypress-->
