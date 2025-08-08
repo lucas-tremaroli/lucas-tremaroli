@@ -2,7 +2,7 @@
 
 - [NixOS](https://nixos.org/) for dev env config
 - [Ghostty](https://ghostty.org/) + [Oh My Zsh](https://ohmyz.sh/) + [Starship](https://starship.rs/) for terminal flow
-- [Zed](https://zed.dev/) for coding (learning [neovim](https://neovim.io/))
+- [Zed](https://zed.dev/) + [Neovim](https://neovim.io/) for coding
 - [Linear](https://linear.app/) for task management that doesn’t suck
 - [GitHub CLI](https://cli.github.com/) for fast Git workflows
 
