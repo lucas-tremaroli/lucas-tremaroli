@@ -1,6 +1,5 @@
 ### 🛠 Tools
 
-- [NixOS](https://nixos.org/) for dev env config
 - [Ghostty](https://ghostty.org/) + [Oh My Zsh](https://ohmyz.sh/) + [Starship](https://starship.rs/) for terminal flow
 - [Zed](https://zed.dev/) + [Neovim](https://neovim.io/) for coding
 - [Linear](https://linear.app/) for task management that doesn’t suck
@@ -10,4 +9,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,go,svelte,tailwind,firebase,mongodb,aws,bash,deno,docker,elasticsearch,fastapi,grafana,graphql,kafka,kubernetes,latex,lua,md,prometheus,terraform,github,vercel,nix,neovim,supabase)](https://skillicons.dev)
 
-... missing icons for Databricks, Spark, and Airflow 🚀
+**Missing icons**: Databricks, Spark, Airflow.
