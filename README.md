@@ -7,6 +7,6 @@
 
 ### ⚙️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,go,svelte,tailwind,firebase,mongodb,aws,bash,deno,docker,elasticsearch,fastapi,grafana,graphql,kafka,kubernetes,latex,md,prometheus,terraform,github,vercel,nix,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,go,svelte,tailwind,firebase,mongodb,aws,bash,deno,docker,elasticsearch,fastapi,grafana,graphql,kafka,kubernetes,latex,md,prometheus,terraform,github,vercel,nix,supabase,scikitlearn)](https://skillicons.dev)
 
 <!--**Missing icons**: Databricks, Spark, Airflow.-->
