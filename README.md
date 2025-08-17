@@ -1,3 +1,7 @@
+### 🧑‍💻 Bio
+
+Working at the intersection of software and data.
+
 ### 🛠 Tools
 
 - [Ghostty](https://ghostty.org/) + [Oh My Zsh](https://ohmyz.sh/) + [Starship](https://starship.rs/) for terminal flow
