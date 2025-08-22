@@ -10,6 +10,7 @@ Working at the intersection of software and data.
 - [Zed](https://zed.dev/) for coding
 - [Linear](https://linear.app/) for task management that doesn’t suck
 - [GitHub CLI](https://cli.github.com/) for fast Git workflows
+- [Claude Code](https://www.anthropic.com/claude-code) for AI
 
 ### ⚙️ Stack
 
