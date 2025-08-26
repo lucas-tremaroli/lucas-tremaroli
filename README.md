@@ -8,7 +8,7 @@ Working at the intersection of software and data.
 
 - [Ghostty](https://ghostty.org/) + [Oh My Zsh](https://ohmyz.sh/) + [Starship](https://starship.rs/) for terminal flow
 - [Zed](https://zed.dev/) for coding
-- [Linear](https://linear.app/) for task management that doesn’t suck
+- [Linear](https://linear.app/) for project management that doesn’t suck
 - [GitHub CLI](https://cli.github.com/) for fast Git workflows
 - [Claude Code](https://www.anthropic.com/claude-code) for AI
 
